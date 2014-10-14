@@ -1,0 +1,19 @@
+############### Data da Entrega da primeira versão:  06/11 ############### 
+
+- Nesta atividade a DUPLA deverá modelar usando o OpenGL um Centro Histórico - CH ( Museu, Casa Antiga. etc) da sua cidade.NÃO PODE SER IGREJA.
+
+- A modelagem deve conter no mínino: 
+
+    - A fachada externa do CH; 
+    - O interior do CH; 
+    - 5 objetos do CH; 
+    - 1 Porta; 
+    - O usuário irá navegar com o teclado/mouse na modelagem permitindo ao usuário visualizar a parte externa e interna do CH; 
+    - A porta do CH deverá ser aberta ou fechada através da ação de um  botão criado em uma interface gráfica. 
+
+    - Se apoiem nos materias:  http://www.ceset.unicamp.br/~magic/opengl/transformacoes.html 
+       - Leia a explicação de como realizar a passagem dos objetos wire em  sólidos no final do capítulo;  http://lab.bachem-it.com/opengl/redbook/  http://www.glprogramming.com/red/  
+
+use o livro OpenGL Superbible que passei para vcs na sala de aula; 
+
+    - Valor da Atividade 3 pontos na nota B1  Usem a criatividade e bom trabalho !!!
